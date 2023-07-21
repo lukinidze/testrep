@@ -2,3 +2,5 @@ I am on my way to pass the Cisco DEVASC exam.
 At this rate I will be ready for the exam in no time.
 I am a git beginner
 
+Created this repo and doc on 05/03/2023
+Revisited and added last 2 lines on 07/21/2023
